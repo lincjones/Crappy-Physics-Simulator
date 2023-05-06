@@ -5,8 +5,11 @@
 #######Controls#######
 
 -ENTER- Adds a ball
+
 -SPACE- Adds multiple balls (you can press and hold to spam them)
+
 -RIGHT CLICK- Adds an object
+
 -LEFT CLICK- Clears screen
 
 -------------------------------
