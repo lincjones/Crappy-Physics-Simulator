@@ -13,5 +13,5 @@
 -LEFT CLICK- Clears screen
 
 -------------------------------
--Ty for staring this project :)
+-Ty for starring this project :)
 # Crappy-Physics-Simulator
